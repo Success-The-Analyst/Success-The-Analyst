@@ -19,19 +19,21 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
+  <img src="https://github.com/user-attachments/assets/8f4499f2-b06d-4ac0-a0a4-6b71c6726929" height="40" alt="Excel logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau logo" />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" />
+  <img src="https://img.icons8.com/color/48/power-bi-2021.png" height="40" alt="Power BI logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
+  <img src="https://github.com/user-attachments/assets/aef47cff-ca62-4154-9f49-df97ca15e66d" height="40" alt="Pandas logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Web Scraping logo" />
+
+
 </div>
 
 ---
