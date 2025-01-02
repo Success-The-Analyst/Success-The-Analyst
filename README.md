@@ -103,8 +103,9 @@
 
 <h2 align="center">✨ Daily Quote ✨</h2>
 
-![Daily Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Daily Quote" />
+</div>
 
 ---
 
