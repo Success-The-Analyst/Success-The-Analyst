@@ -17,54 +17,21 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-</div>
-
-<h3 align="center">Data Visualization</h3>
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS logo" />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" />
-</div>
-
-<h3 align="center">Other Skills</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-</div>
-
----
-
-<h2 align="left">Learning...</h2>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" height="40" alt="Apache Spark logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
-</div>
-
----
-
-<h2 align="center">🔬 Repositories 🔬</h2>
-
-<div width="100%" align="center">
- <a href="https://github.com/Success-The-Analyst/Data-Wrangling-Projects"><img align="center" height="115"  width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Success-The-Analyst&repo=Data-Wrangling-Projects&theme=radical&border_color=61dafb&border_radius=10" alt="Data Wrangling Projects Repository" /></a>
- <a href="https://github.com/Success-The-Analyst/Visualization-Showcase"><img align="center" height="115" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Success-The-Analyst&repo=Visualization-Showcase&theme=radical&border_color=61dafb&border_radius=10" alt="Visualization Showcase Repository" /></a>
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Web Scraping logo" />
 </div>
 
 ---
@@ -72,20 +39,7 @@
 <h2 align="center">✨ Daily Quote ✨</h2>
 
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-</div>
-
----
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<div align="center">
-  
-  ![Success's GitHub stats](https://github-readme-stats.vercel.app/api?username=Success-The-Analyst&show_icons=true&theme=radical)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Success-The-Analyst&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="195" width="49%" alt="languages graph" />
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Success-The-Analyst&theme=radical)](https://git.io/streak-stats)
-
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) 
 </div>
 
 ---
