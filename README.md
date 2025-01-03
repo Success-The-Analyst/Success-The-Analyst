@@ -3,7 +3,6 @@
 <p align="left">My name is Success Ambaliya, a passionate Data Analyst based in Toronto, Ontario, Canada. I thrive on turning data into actionable insights and crafting compelling data-driven narratives.</p>
 
 ---
-
 <h2 align="left">About Me</h2>
 
 ✨ Currently exploring advanced analytics<br>🎨 Passionate about visualizing data and finding meaningful patterns<br>🌍 Open to collaborating on data-centric projects and sharing insights<br>🌟 Fun Fact: I love solving puzzles, both with data and in real life!
